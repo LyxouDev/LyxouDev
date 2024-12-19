@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 
 ## 🔗 Connect with Me
 
-- [LinkedIn - Perso](linkedin.com/in/rémi-invernizzi)
-- [LinkedIn - Pro](linkedin.com/company/lyxou-développement)
+- [LinkedIn - Perso](https://linkedin.com/in/rémi-invernizzi)
+- [LinkedIn - Pro](https://linkedin.com/company/lyxou-développement)
 
 > *Feel free to explore my repositories and reach out if you have any questions or would like to collaborate!*
