@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm LyxouDev! 👋
 
-<!--
-**LyxouDev/LyxouDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with a love for learning and creating. Here's a little bit about me and what I do:
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, HTML5, CSS3, Javascript
+- **Frameworks/Libraries:** Django
+
+## 📈 GitHub Stats
+
+![LyxouDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=LyxouDev&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me
+
+- [LinkedIn - Perso](linkedin.com/in/rémi-invernizzi)
+- [LinkedIn - Pro](linkedin.com/company/lyxou-développement)
+
+> *Feel free to explore my repositories and reach out if you have any questions or would like to collaborate!*
